@@ -134,7 +134,7 @@ oid_section						= new_oids
 	0.organizationName_default	= Alphabet Inc
 	#1.organizationName_default	= Google
 	organizationalUnitName_default	= IT
-	emailAddress_default           	= certificates@google.com
+	emailAddress_default		= certificates@google.com
 
 
 	# Option settings, those are length limiters.
